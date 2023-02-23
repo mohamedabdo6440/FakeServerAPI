@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Mohamed Abdo",
+      "email": "mohamedabdo@gmail.com",
+      "phone": "+201063470569"
+    }
+  ]
+}
